@@ -22,6 +22,7 @@ DOMAIN-SUFFIX,msftncsi.com
 DOMAIN-SUFFIX,qupu123.com
 DOMAIN-SUFFIX,pdfwifi.com
 DOMAIN-SUFFIX,registry.npmmirror.com
+DOMAIN-SUFFIX,cdn.npmmirror.com
 
 # CN域名直连
 DOMAIN-SUFFIX,cn
