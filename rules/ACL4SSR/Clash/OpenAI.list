@@ -1,10 +1,12 @@
 # Microsoft Services
 # optimized from https://gist.github.com/TTTPOB/ce93fb3b04ba2f21880b09427442d831
 # source: https://docs.microsoft.com/en-us/office365/enterprise/urls-and-ip-address-ranges
+#  copilot
+DOMAIN-KEYWORD,copilot
+DOMAIN-SUFFIX,copilot.microsoft.com
+
+
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,ai.com
 
 
-#  copilot
-DOMAIN-SUFFIX,copilot.microsoft.com
-DOMAIN-KEYWORD,copilot
