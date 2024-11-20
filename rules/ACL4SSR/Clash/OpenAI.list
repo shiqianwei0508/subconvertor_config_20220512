@@ -9,4 +9,6 @@ DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,ai.com
 
-
+# gemini.google.com
+DOMAIN-KEYWORD,gemini
+DOMAIN-SUFFIX,gemini.google.com
