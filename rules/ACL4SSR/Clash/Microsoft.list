@@ -7,9 +7,6 @@ DOMAIN-SUFFIX,appcenter.ms
 DOMAIN-SUFFIX,azurefd.net
 DOMAIN-SUFFIX,nelreports.net
 
-# 微软Bing
-DOMAIN-SUFFIX,copilot.microsoft.com
-
 # Windows10更新
 DOMAIN-SUFFIX,wac.phicdn.net
 
