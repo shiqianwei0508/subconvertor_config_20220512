@@ -24,7 +24,7 @@ DOMAIN-SUFFIX,default.exp-tas.com
 
 # ------------------------------------------------
 # 以下规则来源为ACL4SSR，仅删除部分重复
-DOMAIN-KEYWORD,microsoft
+#DOMAIN-KEYWORD,microsoft
 DOMAIN-SUFFIX,aadrm.com
 DOMAIN-SUFFIX,acompli.com
 DOMAIN-SUFFIX,acompli.net
