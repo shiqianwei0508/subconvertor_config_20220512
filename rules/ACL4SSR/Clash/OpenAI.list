@@ -23,6 +23,10 @@ DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
 
+# claude
+DOMAIN-KEYWORD,claude
+DOMAIN-SUFFIX,claude.ai
+
 # ------------------------------------------------
 # 以下规则来源为ACL4SSR，仅删除部分重复
 # OpenAi
